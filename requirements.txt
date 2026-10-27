@@ -1,0 +1,5 @@
+# Ambiente recomendado: Python 3.12
+# Nome no GitHub: requirements.txt (na mesma pasta de app.py)
+streamlit==1.66.1
+pandas==2.2.3
+openpyxl==3.1.5
